@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+.idea/
+spring-lessons.iml
+
 # Log file
 *.log
 
